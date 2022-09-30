@@ -54,7 +54,7 @@ isort==4.3.21
 itemadapter==0.1.0
 itsdangerous==1.1.0
 Jinja2==2.11.2
-joblib==0.16.0
+joblib==1.2.0
 lazy-object-proxy==1.4.3
 lxml==4.5.1
 MarkupSafe==1.1.1
