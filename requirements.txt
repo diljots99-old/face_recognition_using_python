@@ -106,7 +106,7 @@ toml==0.10.1
 tqdm==4.46.1
 tweepy==3.8.0
 twint==2.1.20
-Twisted==20.3.0
+Twisted==22.10.0
 typing-extensions==3.7.4.2
 uritemplate==3.0.1
 urllib3==1.25.9
